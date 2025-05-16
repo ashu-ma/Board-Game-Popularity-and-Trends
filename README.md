@@ -20,6 +20,3 @@ This project explores popularity trends in board games using data from [BoardGam
 - Geek Rating positively correlates with voter count
 - Ratings have steadily improved over years
 - Top-rated games often have > 10,000 voters
-
-## 📁 Project Structure
-
